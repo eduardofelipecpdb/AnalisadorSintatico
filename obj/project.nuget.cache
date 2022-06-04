@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rXw42X61fIFNu6Z9Tu2ZsFyla4gmdTP1rYe5J9tWfuRdoj4QzkjRZpIl1mLD8AVGpjwQHKDTCFDH6HyOLbbEVQ==",
+  "dgSpecHash": "0n5GJQ44Z5GK/T5Kk4j63TQpZKaWEa8ayLSsc/5TMd7k72uIrcUPDm3Y1+urkt1ExXKKfFVlX1Im9fKPieGFGw==",
   "success": true,
-  "projectFilePath": "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\Analisador sintatico\\Analisador sintatico.csproj",
+  "projectFilePath": "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\AnalisadorSintatico\\Analisador sintatico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduar\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\eduar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

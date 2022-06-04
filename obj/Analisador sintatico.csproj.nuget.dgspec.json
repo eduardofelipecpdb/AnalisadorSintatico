@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\Analisador sintatico\\Analisador sintatico.csproj": {}
+    "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\AnalisadorSintatico\\Analisador sintatico.csproj": {}
   },
   "projects": {
-    "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\Analisador sintatico\\Analisador sintatico.csproj": {
+    "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\AnalisadorSintatico\\Analisador sintatico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\Analisador sintatico\\Analisador sintatico.csproj",
+        "projectUniqueName": "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\AnalisadorSintatico\\Analisador sintatico.csproj",
         "projectName": "Analisador sintatico",
-        "projectPath": "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\Analisador sintatico\\Analisador sintatico.csproj",
+        "projectPath": "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\AnalisadorSintatico\\Analisador sintatico.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\Analisador sintatico\\obj\\",
+        "outputPath": "F:\\Documentos\\_Unisal\\_MATERIAS 2022-1\\TEORIA DA COMPUTAÇÃO E COMPLEX\\AnalisadorSintatico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

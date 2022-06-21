@@ -1,9 +1,8 @@
 ﻿using System.Data.SQLite;
 using System.Text.RegularExpressions;
 using AnalisadorSintatico;
-//https://web.archive.org/web/20190910153157/http://blog.tigrangasparian.com/2012/02/09/getting-started-with-sqlite-in-c-part-one/
 
-var trechoIf = new If("if(valor");
+var trechoIf = new If("if(valor<=");
 analisaTrecho(trechoIf);
 
 void analisaTrecho(dynamic codigo)
@@ -36,7 +35,6 @@ bool checaExpressoes(dynamic codigo)
             reader.Close();
             throw new Exception(idExpressao);
         }
-        
 
     return true;
 }
